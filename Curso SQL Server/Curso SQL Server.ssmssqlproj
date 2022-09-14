@@ -85,6 +85,12 @@
           <AssociatedConnUserName />
           <FullPath>Inserindo Registros.sql</FullPath>
         </FileNode>
+        <FileNode Name="juncao total e cruzamento.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-F26LD9N\MSSQLSERVER01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-F26LD9N\MSSQLSERVER01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>juncao total e cruzamento.sql</FullPath>
+        </FileNode>
         <FileNode Name="Junções Externas.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-F26LD9N\MSSQLSERVER01:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-F26LD9N\MSSQLSERVER01</AssociatedConnSrvName>
