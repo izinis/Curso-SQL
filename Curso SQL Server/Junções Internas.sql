@@ -29,7 +29,7 @@ SELECT
 	F.NomeFuncionario,
 	D.NascimentoDependente,
 	D.NascimentoDependente
-FROM Funcionario AS F INNER JOIN Dependente AS D
+FROM Funcionario F INNER JOIN Dependente D
 ON D.idMatricula = F.idMatricula
 ORDER BY F.NomeFuncionario;
 

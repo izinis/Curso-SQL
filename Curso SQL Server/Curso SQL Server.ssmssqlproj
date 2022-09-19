@@ -103,6 +103,12 @@
           <AssociatedConnUserName />
           <FullPath>Junções Internas.sql</FullPath>
         </FileNode>
+        <FileNode Name="manipulando dados com junções.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-F26LD9N\MSSQLSERVER01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-F26LD9N\MSSQLSERVER01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>manipulando dados com junções.sql</FullPath>
+        </FileNode>
         <FileNode Name="Operadores.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-F26LD9N\MSSQLSERVER01:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-F26LD9N\MSSQLSERVER01</AssociatedConnSrvName>
@@ -114,6 +120,18 @@
           <AssociatedConnSrvName>DESKTOP-F26LD9N\MSSQLSERVER01</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-F26LD9N\MSSQLSERVER01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-F26LD9N\MSSQLSERVER01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Subconsultas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-F26LD9N\MSSQLSERVER01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-F26LD9N\MSSQLSERVER01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Subconsultas.sql</FullPath>
         </FileNode>
         <FileNode Name="trabalhando com valores nulos.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-F26LD9N\MSSQLSERVER01:True</AssociatedConnectionMoniker>
